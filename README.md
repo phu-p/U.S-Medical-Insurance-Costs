@@ -45,9 +45,3 @@ This project involves analyzing a medical insurance costs dataset using Python. 
 3. **Run the Analysis**:
     - Open the Jupyter Notebook provided in the repository.
     - Follow the steps outlined in the notebook to perform the analysis.
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to customize this template further to fit your specific project details!
