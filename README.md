@@ -25,7 +25,6 @@ This project involves analyzing a medical insurance costs dataset using Python. 
 3. **Import Dataset**: Load the dataset into Python.
 4. **Save Dataset Features**: Store dataset columns in variables.
 5. **Build Analysis Functions**: Create functions or methods for data analysis.
-6. **Project Extensions**: (Optional) Expand analysis and make predictions.
 
 ## Getting Started
 
