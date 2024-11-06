@@ -36,7 +36,6 @@ This project involves analyzing a medical insurance costs dataset using Python. 
 
 2. **Set Up Environment**:
     - Ensure you have Python installed.
-        ```
 
 3. **Run the Analysis**:
     - Open the Jupyter Notebook provided in the repository.
