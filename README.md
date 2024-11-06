@@ -36,9 +36,6 @@ This project involves analyzing a medical insurance costs dataset using Python. 
 
 2. **Set Up Environment**:
     - Ensure you have Python installed.
-    - Install necessary libraries:
-        ```bash
-        pip install pandas numpy matplotlib seaborn
         ```
 
 3. **Run the Analysis**:
